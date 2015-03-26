@@ -1,0 +1,28 @@
+{
+  "name": "gulp-xmd5",
+  "version": "1.0.0",
+  "description": "用于将指定的文件计算出md5值，然后存放到指定的文件中",
+  "main": "index.js",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bullub/gulp-xmd5.git"
+  },
+  "keywords": [
+    "gulp",
+    "xmd5"
+  ],
+  "author": "bullub",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bullub/gulp-xmd5/issues"
+  },
+  "homepage": "https://github.com/bullub/gulp-xmd5",
+  "dependencies": {
+    "gulp-util": "^3.0.4",
+    "through2": "^0.6.3"
+  }
+}
