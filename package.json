@@ -1,6 +1,6 @@
 {
   "name": "gulp-xmd5",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "用于将指定的文件计算出md5值，然后存放到指定的文件中",
   "main": "index.js",
   "private": false,
