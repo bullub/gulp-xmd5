@@ -46,7 +46,7 @@ function calculate(file, encoding, callback) {
         filePath = file.path.replace(_basePath, "");
 
     md5Map[filePath] = calculationMD5(file, encoding, size);
-    this.push(file);
+    //this.push(file);
     callback();
 
 }
